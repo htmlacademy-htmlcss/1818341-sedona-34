@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [andrei adaew](https://up.htmlacademy.ru/htmlcss/34/user/1818341).
-* Наставник: `Неизвестно`.
+* Наставник: [Ivan Zharkov](https://vk.com/stalyer).
 
 ---
 
